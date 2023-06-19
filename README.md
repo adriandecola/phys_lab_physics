@@ -4,7 +4,7 @@ This was my Lab Physics class. The class was very different; we completed extrem
 
 The labs are as follows:
 ------------------------
-C Lab- Measuring the Speed of Light \n
+C Lab- Measuring the Speed of Light
 G Lab- Measuring the Gravitational Constant
 CAP Lab- Measuring the Capacitance of Different Materials
 HD Lab- Measuring the Mass of a Neutron
